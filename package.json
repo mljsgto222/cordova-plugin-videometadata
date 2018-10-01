@@ -1,0 +1,22 @@
+{
+    "name": "cordova_plugin_videometadata",
+    "version": "1.0.0",
+    "description": "Returns width, height, rotation, duration, bitrate of video files.",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/mljsgto222/cordova-plugin-videometadata.git"
+    },
+    "keywords": [
+
+    ],
+    "author": "Shahin Agha-Ghassem",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/mljsgto222/cordova-plugin-videometadata/issues"
+    },
+    "homepage": "https://github.com/mljsgto222/cordova-plugin-videometadata#readme"
+  }
+  
